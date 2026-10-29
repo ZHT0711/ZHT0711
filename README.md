@@ -15,7 +15,7 @@ ZHT0711 —— 东北大学学生，Rime 输入法玩家，Emacs & Neovim 双修
 $ neofetch
 ╔══════════════════════╗    ZHT0711@github
 ║  ┌────────────────┐  ║    ─────────────────
-║  │ >_             │  ║    🟦 OS        Windows 11
+║  │ >_             │  ║    🟦 OS        Windows 11 / Kubuntu 22.04
 ║  │                │  ║    🟩 Shell     Git Bash / Emacs
 ║  │                │  ║    🟨 Editors   Emacs · Neovim · VSCodium
 ║  └────────────────┘  ║    🟧 Langs     C · Go · Lua · Elisp
