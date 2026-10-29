@@ -42,11 +42,11 @@ $ █
 
 | 仓库 | 说明 | 技术栈 | 状态 |
 | --- | --- | --- | --- |
-| [OJ-Assistant-Plus](https://github.com/ZHT0711/OJ-Assistant-Plus) | 洛谷 / 力扣 / NEU OJ / Codeforces 看题、测样例、一键交题 | TypeScript · VS Code API | 🚀 活跃开发 |
+| [OJ-Assistant-Plus](https://github.com/ZHT0711/OJ-Assistant-Plus) | 洛谷 / 力扣 / NEU OJ / Codeforces 看题、测样例、一键交题 | TypeScript · VS Code API | 活跃开发 |
 | [zamo](https://github.com/ZHT0711/zamo) | 我的 Rime 输入方案，借鉴万象 | YAML · Lua | 🔧 持续魔改 |
-| [word-aux-filter-lua-For-Rime](https://github.com/ZHT0711/word-aux-filter-lua-For-Rime) | 灵感来自 Moran 的词辅脚本 | Lua | ✅ 可用 |
-| [NEU-Ipgw-auto-login](https://github.com/ZHT0711/NEU-Ipgw-auto-login) | 东北大学校园网认证脚本 | C | ✅ 可用 |
-| [.emacs.d](https://github.com/ZHT0711/.emacs.d) · [nvim.config](https://github.com/ZHT0711/nvim.config) | 配置备份，随改随推 | Emacs Lisp · Lua | 🔄 每日更新 |
+| [word-aux-filter-lua-For-Rime](https://github.com/ZHT0711/word-aux-filter-lua-For-Rime) | 灵感来自 Moran 的词辅脚本 | Lua |
+| [NEU-Ipgw-auto-login](https://github.com/ZHT0711/NEU-Ipgw-auto-login) | 东北大学校园网认证脚本 | C |
+| [.emacs.d](https://github.com/ZHT0711/.emacs.d) · [nvim.config](https://github.com/ZHT0711/nvim.config) | 配置备份，随改随推 | Emacs Lisp · Lua | 随缘更新~ |
 
 ### `$ git stats`
 
@@ -56,7 +56,7 @@ $ █
 
 <div align="center">
 
-`$ who`<br/>
+### `$ who`<br/>
 ![](https://komarev.com/ghpvc/?username=ZHT0711&style=flat-square&color=6a5acd&label=%E8%AE%BF%E5%AE%A2)
 
 </div>
