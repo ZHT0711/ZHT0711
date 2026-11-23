@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="76" viewBox="0 0 520 76" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="100" viewBox="0 0 520 100" role="img" aria-labelledby="title">
   <title id="title">打开完整活动图</title>
-  <rect x=".5" y=".5" width="519" height="75" rx="11" fill="#161F25" stroke="#465A54"/>
-  <path d="M24 47l14-16 12 8 18-14" fill="none" stroke="#C8F07A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="87" y="47" fill="#F3F1E7" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="26" font-weight="600">打开完整活动图</text>
-  <path d="M467 37h23m-9-9 9 9-9 9" fill="none" stroke="#C8F07A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x=".5" y=".5" width="519" height="99" rx="11" fill="#161F25" stroke="#465A54"/>
+  <path d="M24 59l14-16 12 8 18-14" fill="none" stroke="#C8F07A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="87" y="59" fill="#F3F1E7" font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="600">打开完整活动图</text>
+  <path d="M467 49h23m-9-9 9 9-9 9" fill="none" stroke="#C8F07A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
