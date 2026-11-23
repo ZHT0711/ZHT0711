@@ -24,21 +24,23 @@
 
     <g font-family="ui-monospace, Consolas, monospace">
       <text x="508" y="101" fill="#F3F1E7" font-size="28" textLength="84" lengthAdjust="spacingAndGlyphs" id="preedit">uyuz</text>
-      <rect x="598" y="78" width="3" height="25" rx="1.5" fill="#C8F07A"/>
-      <text x="879" y="100" fill="#B6C6BE" text-anchor="end" font-family="Consolas, Microsoft YaHei, sans-serif" font-size="19">RIME · 小鹤双拼</text>
+      <rect id="caret" x="598" y="78" width="3" height="25" rx="1.5" fill="#C8F07A"/>
+      <text x="879" y="100" fill="#B6C6BE" text-anchor="end" font-family="Consolas, Microsoft YaHei, Noto Sans CJK SC, PingFang SC, sans-serif" font-size="21">RIME · 雑䁿</text>
     </g>
 
-    <rect x="493" y="134" width="133" height="61" rx="8" fill="#C8F07A"/>
-    <path d="M750 145v39" stroke="#465A54"/>
-    <g font-family="ui-monospace, Consolas, monospace" font-size="17">
-      <text x="506" y="171" fill="#344524">1</text>
-      <text x="643" y="171" fill="#B6C6BE">2</text>
-      <text x="764" y="171" fill="#B6C6BE">3</text>
-    </g>
-    <g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600">
-      <text x="530" y="176" fill="#161F25">顺手</text>
-      <text x="667" y="176" fill="#F3F1E7">顺受</text>
-      <text x="788" y="176" fill="#F3F1E7">顺守</text>
+    <g id="candidates">
+      <rect id="selection" x="493" y="134" width="133" height="61" rx="8" fill="#C8F07A"/>
+      <path d="M750 145v39" stroke="#465A54"/>
+      <g font-family="ui-monospace, Consolas, monospace" font-size="17">
+        <text id="first-index" x="506" y="171" fill="#344524">1</text>
+        <text x="643" y="171" fill="#B6C6BE">2</text>
+        <text x="764" y="171" fill="#B6C6BE">3</text>
+      </g>
+      <g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600">
+        <text id="candidate-1" x="530" y="176" fill="#161F25">顺手</text>
+        <text id="candidate-2" x="667" y="176" fill="#F3F1E7">顺受</text>
+        <text id="candidate-3" x="788" y="176" fill="#F3F1E7">顺守</text>
+      </g>
     </g>
   </g>
   <rect x=".5" y=".5" width="959" height="271" rx="17.5" fill="none" stroke="#465A54"/>

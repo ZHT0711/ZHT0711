@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="302" viewBox="0 0 520 302" role="img" aria-labelledby="title description">
+  <title id="title">sk0w0sy · ZHT0711</title>
+  <desc id="description">Rime 小鹤双拼输入 uyuz，选中第一个候选词「顺手」。</desc>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#657A6E" opacity=".34"/>
+    </pattern>
+    <clipPath id="card">
+      <rect width="520" height="302" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <path fill="#161F25" d="M0 0h520v302H0z"/>
+    <path fill="url(#dots)" d="M0 114h520v188H0z"/>
+    <path d="M0 114h520" stroke="#344542"/>
+
+    <text x="26" y="83" fill="#F3F1E7" font-family="system-ui, sans-serif" font-size="69" font-weight="750" letter-spacing="-3">sk0w0sy</text>
+    <text x="491" y="80" fill="#C8F07A" text-anchor="end" font-family="ui-monospace, Consolas, monospace" font-size="24">@ZHT0711</text>
+
+    <rect x="29" y="138" width="472" height="144" rx="12" fill="#0D1519" opacity=".75"/>
+    <rect x="24" y="133" width="472" height="144" rx="12" fill="#222F34" stroke="#465A54"/>
+    <path d="M24 197h472" stroke="#465A54"/>
+
+    <g font-family="ui-monospace, Consolas, monospace">
+      <text id="preedit" x="44" y="175" fill="#F3F1E7" font-size="33" textLength="88" lengthAdjust="spacingAndGlyphs">uyuz</text>
+      <rect id="caret" x="138" y="147" width="3" height="30" rx="1.5" fill="#C8F07A"/>
+      <text x="476" y="174" fill="#B6C6BE" text-anchor="end" font-family="Consolas, Microsoft YaHei, Noto Sans CJK SC, PingFang SC, sans-serif" font-size="25">RIME · 雑䁿</text>
+    </g>
+
+    <g id="candidates">
+      <rect id="selection" x="36" y="209" width="138" height="56" rx="8" fill="#C8F07A"/>
+      <path d="M327 217v39" stroke="#465A54"/>
+      <g font-family="ui-monospace, Consolas, monospace" font-size="20">
+        <text id="first-index" x="49" y="244" fill="#344524">1</text>
+        <text x="195" y="244" fill="#B6C6BE">2</text>
+        <text x="348" y="244" fill="#B6C6BE">3</text>
+      </g>
+      <g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="600">
+        <text id="candidate-1" x="74" y="249" fill="#161F25">顺手</text>
+        <text id="candidate-2" x="220" y="249" fill="#F3F1E7">顺受</text>
+        <text id="candidate-3" x="373" y="249" fill="#F3F1E7">顺守</text>
+      </g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="519" height="301" rx="15.5" fill="none" stroke="#465A54"/>
+</svg>

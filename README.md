@@ -1,6 +1,8 @@
 <picture>
+  <source media="(max-width: 767px) and (prefers-reduced-motion: reduce)" srcset="assets/profile-cover-mobile.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-cover.svg">
-  <img alt="sk0w0sy · ZHT0711，小鹤双拼输入 uyuz，选中「顺手」" src="assets/profile-cover.gif?v=2" width="960">
+  <source media="(max-width: 767px)" srcset="assets/profile-cover-mobile.gif">
+  <img alt="sk0w0sy · ZHT0711，RIME · 雑䁿，小鹤双拼输入 uyuz，选中「顺手」" src="assets/profile-cover.gif?v=3" width="960">
 </picture>
 
 ## 把常用的工具调顺手
@@ -15,4 +17,9 @@
 
 ## 最近 31 天的 GitHub 活动
 
-![ZHT0711 最近 31 天的 GitHub 贡献趋势](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ZHT0711&days=31&bg_color=161F25&color=E7E6DA&line=C8F07A&point=F3F1E7&area=true&area_color=759744&hide_border=true&hide_title=true&height=225&radius=16)
+<a href="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ZHT0711&amp;days=31&amp;bg_color=161F25&amp;color=E7E6DA&amp;line=C8F07A&amp;point=F3F1E7&amp;area=true&amp;area_color=759744&amp;hide_border=true&amp;hide_title=true&amp;height=225&amp;radius=16">
+  <picture>
+    <source media="(max-width: 767px)" srcset="assets/profile-activity-mobile.svg">
+    <img alt="打开 ZHT0711 最近 31 天的完整 GitHub 活动图" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ZHT0711&amp;days=31&amp;bg_color=161F25&amp;color=E7E6DA&amp;line=C8F07A&amp;point=F3F1E7&amp;area=true&amp;area_color=759744&amp;hide_border=true&amp;hide_title=true&amp;height=225&amp;radius=16">
+  </picture>
+</a>
