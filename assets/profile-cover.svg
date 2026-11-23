@@ -1,17 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="272" viewBox="0 0 960 272" role="img" aria-labelledby="title description">
   <title id="title">sk0w0sy · ZHT0711</title>
-  <desc id="description">输入 shun，Rime 风格的候选栏选中第一个词「顺手」。</desc>
+  <desc id="description">Rime 小鹤双拼输入 uyuz，选中第一个候选词「顺手」。</desc>
   <defs>
     <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1" fill="#657A6E" opacity=".34"/>
     </pattern>
     <clipPath id="card">
       <rect width="960" height="272" rx="18"/>
-    </clipPath>
-    <clipPath id="preedit">
-      <rect x="508" y="76" width="87" height="28">
-        <animate attributeName="width" values="0;21;42;63;87;87" keyTimes="0;.19;.37;.56;.75;1" calcMode="discrete" dur="1.2s" fill="freeze"/>
-      </rect>
     </clipPath>
   </defs>
 
@@ -28,11 +23,9 @@
     <path d="M479 117h426" stroke="#465A54"/>
 
     <g font-family="ui-monospace, Consolas, monospace">
-      <text x="508" y="101" fill="#F3F1E7" font-size="28" textLength="84" lengthAdjust="spacingAndGlyphs" clip-path="url(#preedit)">shun</text>
-      <rect x="598" y="78" width="3" height="25" rx="1.5" fill="#C8F07A">
-        <animate attributeName="x" values="508;532;554;576;598;598" keyTimes="0;.19;.37;.56;.75;1" calcMode="discrete" dur="1.2s" fill="freeze"/>
-      </rect>
-      <text x="879" y="100" fill="#B6C6BE" text-anchor="end" font-size="19" letter-spacing="2">RIME</text>
+      <text x="508" y="101" fill="#F3F1E7" font-size="28" textLength="84" lengthAdjust="spacingAndGlyphs" id="preedit">uyuz</text>
+      <rect x="598" y="78" width="3" height="25" rx="1.5" fill="#C8F07A"/>
+      <text x="879" y="100" fill="#B6C6BE" text-anchor="end" font-family="Consolas, Microsoft YaHei, sans-serif" font-size="19">RIME · 小鹤双拼</text>
     </g>
 
     <rect x="493" y="134" width="133" height="61" rx="8" fill="#C8F07A"/>
@@ -44,8 +37,8 @@
     </g>
     <g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600">
       <text x="530" y="176" fill="#161F25">顺手</text>
-      <text x="667" y="176" fill="#F3F1E7">顺序</text>
-      <text x="788" y="176" fill="#F3F1E7">顺路</text>
+      <text x="667" y="176" fill="#F3F1E7">顺受</text>
+      <text x="788" y="176" fill="#F3F1E7">顺守</text>
     </g>
   </g>
   <rect x=".5" y=".5" width="959" height="271" rx="17.5" fill="none" stroke="#465A54"/>
