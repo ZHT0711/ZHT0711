@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-cover.svg">
-  <img alt="sk0w0sy · ZHT0711，小鹤双拼输入 uyuz，选中「顺手」" src="assets/profile-cover.gif" width="960" height="272">
+  <img alt="sk0w0sy · ZHT0711，小鹤双拼输入 uyuz，选中「顺手」" src="assets/profile-cover.gif?v=2" width="960">
 </picture>
 
 ## 把常用的工具调顺手
