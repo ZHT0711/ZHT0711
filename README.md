@@ -17,9 +17,7 @@
 
 ## 最近 31 天的 GitHub 活动
 
-<a href="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ZHT0711&amp;days=31&amp;bg_color=161F25&amp;color=E7E6DA&amp;line=C8F07A&amp;point=F3F1E7&amp;area=true&amp;area_color=759744&amp;hide_border=true&amp;hide_title=true&amp;height=225&amp;radius=16">
-  <picture>
-    <source media="(max-width: 767px)" srcset="assets/open-activity-chart.svg">
-    <img alt="打开 ZHT0711 最近 31 天的完整 GitHub 活动图" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ZHT0711&amp;days=31&amp;bg_color=161F25&amp;color=E7E6DA&amp;line=C8F07A&amp;point=F3F1E7&amp;area=true&amp;area_color=759744&amp;hide_border=true&amp;hide_title=true&amp;height=225&amp;radius=16">
-  </picture>
-</a>
+<picture>
+  <source media="(max-width: 767px)" srcset="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ZHT0711&amp;days=31&amp;bg_color=161F25&amp;color=E7E6DA&amp;line=C8F07A&amp;point=F3F1E7&amp;area=true&amp;area_color=759744&amp;hide_border=true&amp;hide_title=true&amp;height=600&amp;radius=16">
+  <img alt="ZHT0711 最近 31 天的 GitHub 活动图" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=ZHT0711&amp;days=31&amp;bg_color=161F25&amp;color=E7E6DA&amp;line=C8F07A&amp;point=F3F1E7&amp;area=true&amp;area_color=759744&amp;hide_border=true&amp;hide_title=true&amp;height=225&amp;radius=16">
+</picture>
